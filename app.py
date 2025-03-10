@@ -54,7 +54,7 @@ with st.sidebar:
     )
     
     st.markdown("---")
-    st.caption("© 2025 John Alya GPT")
+    st.caption("© 2025 Jaun Elia GPT by Khalid Hussain")
     
     # Language selection
     language = st.radio(
@@ -218,4 +218,4 @@ if st.session_state.get('saved_poems', []):
 
 # Footer
 st.markdown("---")
-st.caption("Jaun Elia GPT - Create beautiful Urdu poetry with the power of AI")
+st.caption("Jaun Elia GPT - Create beautiful Urdu poetry with the power of AI by Khalid Husssain")
